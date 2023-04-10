@@ -11,5 +11,5 @@ export default defineConfig({
 		react(),
 	],
 	site: `https://yashmetovyury.github.io/`,
-	base: '/testdoc',
+	// base: '/testdoc',
 });
