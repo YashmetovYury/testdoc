@@ -10,6 +10,6 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site: `https://yashmetovyury.github.io/`,
+	site: `https://yashmetovyury.github.io/testdoc/`,
 	// base: '/testdoc',
 });
